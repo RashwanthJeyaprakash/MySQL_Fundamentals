@@ -1,0 +1,5 @@
+
+INNER | OUTER | INNER LEFT | INNER RIGHT
+
+Sample Queries
+
