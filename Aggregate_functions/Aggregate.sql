@@ -2,6 +2,6 @@ AGGREGATE FUNCTIONS
   
 SUM | AVG | MAX | MIN | COUNT | COUNT DISTINCT 
 
-SAMPLE QUERIES
+Sample Queries
 
 /*  ./*
