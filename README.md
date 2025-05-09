@@ -6,7 +6,7 @@ This  project is designed to build a solid foundation in **SQL** using **MySQL**
 
 ---
 
-## 🧠 Key Objectives Covered
+##  Key Objectives Covered
 
 - Master the "Big 6" SQL components:  
   `SELECT`, `FROM`, `WHERE`, `GROUP BY`, `HAVING`, `ORDER BY`.
@@ -19,3 +19,19 @@ This  project is designed to build a solid foundation in **SQL** using **MySQL**
   `JOIN`, `UNION`, and subqueries.
 
 ---
+
+##  What I Learned
+
+- Writing clean, efficient SQL queries for real datasets.
+- The importance of query order and syntax in MySQL.
+- How grouping, filtering, and sorting work together to extract insights.
+- Joining data across multiple tables for deeper analysis.
+- Reinforced the difference between writing SQL to explore vs. explain data.
+
+---
+
+##  Future Plans
+
+- Apply these skills to more complex business case projects.
+- Practice query optimization and indexing for performance.
+- Practice query writing in HackerRank to increase rank.
