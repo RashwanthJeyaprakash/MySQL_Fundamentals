@@ -1,13 +1,16 @@
 # **MySQL_Fundamentals**
 
+---
+
 ##  Project Overview
 
 This  project is designed to build a solid foundation in **SQL** using **MySQL**. It walks through real-world scenarios where key SQL concepts are applied to analyze data and understand relational database systems.
 
 ---
 
-##  Key Objectives Covered
+##  Key Objectives Covered 
 
+Several queries written for each objective. Select to view
 - Master the "Big 6" SQL components:  
   `SELECT`, `FROM`, `WHERE`, `GROUP BY`, `HAVING`, `ORDER BY`.
 - Use aggregate functions:  
@@ -17,6 +20,27 @@ This  project is designed to build a solid foundation in **SQL** using **MySQL**
 - Implement conditional logic with `CASE` statements.
 - Combine tables using:  
   `JOIN`, `UNION`, and subqueries.
+
+---
+
+## **Customer_Behaviour Analysis**  personel mini project
+
+## objective 
+
+Understand customer trends at a DVD rental store by analyzing:
+- Who rents the most?
+- Which customers are most loyal?
+- How recent, frequent, and valuable are their rentals?
+
+## Solution Preview []
+
+---
+
+## " " mini project2
+
+## objective 
+
+## Solution Preview[]
 
 ---
 
@@ -35,3 +59,5 @@ This  project is designed to build a solid foundation in **SQL** using **MySQL**
 - Apply these skills to more complex business case projects.
 - Practice query optimization and indexing for performance.
 - Practice query writing in HackerRank to increase rank.
+
+---
