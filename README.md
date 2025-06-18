@@ -31,10 +31,11 @@ Several queries written for various objective. Select to view
   `SELECT`, `FROM`, `WHERE`, `GROUP BY`, `HAVING`, `ORDER BY`.
 - Use [Aggregate.sql](Aggregate_functions/Aggregate.sql):  
   `SUM`, `AVG`, `MAX`, `MIN`, `COUNT`, `COUNT DISTINCT`.
-- Use advanced SQL tools:  
+- Use more SQL tools:  
   `IN`, `LIKE`, `ALIASES` 
-- Implement conditional logic with `CASE` statements.
-- Combine tables using:  
+- use conditional logic [CASE.sql](Case_Statements/CASE.sql):    
+   `CASE`
+- Combine using [Joins.sql](Join_statements/Joins.sql):   
   `JOIN`, `UNION`, and subqueries.
   
 ---
