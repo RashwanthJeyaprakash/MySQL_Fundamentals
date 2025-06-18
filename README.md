@@ -1,6 +1,6 @@
- **MySQL_Fundamentals**
+# **MySQL_Fundamentals**
 
----
+
 
 ##  Project Overview
 
@@ -8,7 +8,7 @@ This  project is designed to build a solid foundation in **SQL** using **MySQL**
 
 ---
 
-## **Customer_Behaviour Analysis**  personel mini project
+## **Customer_Behaviour Analysis**  - mini project
 
 ## objective 
 
