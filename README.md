@@ -1,10 +1,10 @@
-# **MySQL_Fundamentals**
+ **MySQL_Fundamentals**
 
 ---
 
 ##  Project Overview
 
-This  project is designed to build a solid foundation in **SQL** using **MySQL**. It walks through real-world scenarios where key SQL concepts are applied to analyze data and understand relational database systems.
+This  project is designed to build a solid foundation in **SQL** using **MySQL**. It walks through scenarios where key SQL concepts are applied to analyze data and understand relational database systems.
 
 ---
 
