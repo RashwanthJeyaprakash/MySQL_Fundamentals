@@ -29,7 +29,7 @@ Understand customer trends at a DVD rental store by analyzing:
 Several queries written for various objective. Select to view
 - Using the [Big6_Statements.sql](Big6_SQL_Statements/Big6_Statements.sql):  
   `SELECT`, `FROM`, `WHERE`, `GROUP BY`, `HAVING`, `ORDER BY`.
-- Use aggregate functions:  
+- Use [Aggregate.sql](Aggregate_functions/Aggregate.sql):  
   `SUM`, `AVG`, `MAX`, `MIN`, `COUNT`, `COUNT DISTINCT`.
 - Use advanced SQL tools:  
   `IN`, `LIKE`, `ALIASES` 
