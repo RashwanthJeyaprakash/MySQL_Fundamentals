@@ -27,7 +27,7 @@ Understand customer trends at a DVD rental store by analyzing:
 ##  Key Objectives Covered 
 
 Several queries written for various objective. Select to view
-- Master the "Big 6" SQL components:  
+- Using the [Big6_Statements.sql](Big6_SQL_Statements/Big6_Statements.sql):  
   `SELECT`, `FROM`, `WHERE`, `GROUP BY`, `HAVING`, `ORDER BY`.
 - Use aggregate functions:  
   `SUM`, `AVG`, `MAX`, `MIN`, `COUNT`, `COUNT DISTINCT`.
