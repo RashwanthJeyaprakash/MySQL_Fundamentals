@@ -8,9 +8,25 @@ This  project is designed to build a solid foundation in **SQL** using **MySQL**
 
 ---
 
+## **Customer_Behaviour Analysis**  personel mini project
+
+## objective 
+
+Understand customer trends at a DVD rental store by analyzing:
+- Who rents the most?
+- Which customers are most loyal?
+- How recent, frequent, and valuable are their rentals?
+- ETC...
+
+## Schema diagram
+
+-insert pic
+
+---
+
 ##  Key Objectives Covered 
 
-Several queries written for each objective. Select to view
+Several queries written for various objective. Select to view
 - Master the "Big 6" SQL components:  
   `SELECT`, `FROM`, `WHERE`, `GROUP BY`, `HAVING`, `ORDER BY`.
 - Use aggregate functions:  
@@ -20,28 +36,7 @@ Several queries written for each objective. Select to view
 - Implement conditional logic with `CASE` statements.
 - Combine tables using:  
   `JOIN`, `UNION`, and subqueries.
-
----
-
-## **Customer_Behaviour Analysis**  personel mini project
-
-## objective 
-
-Understand customer trends at a DVD rental store by analyzing:
-- Who rents the most?
-- Which customers are most loyal?
-- How recent, frequent, and valuable are their rentals?
-
-## Solution Preview []
-
----
-
-## " " mini project2
-
-## objective 
-
-## Solution Preview[]
-
+  
 ---
 
 ##  What I Learned
