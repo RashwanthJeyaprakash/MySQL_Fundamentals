@@ -7,16 +7,7 @@
 This  project is designed to build a solid foundation in **SQL** using **MySQL**. It walks through scenarios where key SQL concepts are applied to analyze data and understand relational database systems.
 
 ---
-
 ### **Customer_Behaviour Analysis**  - mini project
-
-### objective 
-
-Understand customer trends at a DVD rental store by analyzing:
-- Who rents the most?
-- Which customers are most loyal?
-- How recent, frequent, and valuable are their rentals?
-- ETC...
 
 ### Schema diagram
 
