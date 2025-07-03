@@ -1,16 +1,16 @@
-# **MySQL_Fundamentals**
+## **MySQL_Fundamentals**
 
 
 
-##  Project Overview
+###  Project Overview
 
 This  project is designed to build a solid foundation in **SQL** using **MySQL**. It walks through scenarios where key SQL concepts are applied to analyze data and understand relational database systems.
 
 ---
 
-## **Customer_Behaviour Analysis**  - mini project
+### **Customer_Behaviour Analysis**  - mini project
 
-## objective 
+### objective 
 
 Understand customer trends at a DVD rental store by analyzing:
 - Who rents the most?
@@ -18,13 +18,13 @@ Understand customer trends at a DVD rental store by analyzing:
 - How recent, frequent, and valuable are their rentals?
 - ETC...
 
-## Schema diagram
+### Schema diagram
 
 -insert pic
 
 ---
 
-##  Key Objectives Covered 
+###  Key Objectives Covered 
 
 Several queries written for various objective. Select to view
 - Using the [Big6_Statements.sql](Big6_SQL_Statements/Big6_Statements.sql):  
@@ -40,7 +40,7 @@ Several queries written for various objective. Select to view
   
 ---
 
-##  What I Learned
+###  What I Learned
 
 - Writing clean, efficient SQL queries for real datasets.
 - The importance of query order and syntax in MySQL.
@@ -50,7 +50,7 @@ Several queries written for various objective. Select to view
 
 ---
 
-##  Future Plans
+###  Future Plans
 
 - Apply these skills to more complex business case projects.
 - Practice query optimization and indexing for performance.
